@@ -8,11 +8,10 @@
 
 <h1>DESCRIBE THE PROCESS OF COMMITTING A PROJECT TO GITHUB REPOSITORY</h1>
 <p>ANSWER</p>
-<p>
-1.	Create a new repository on GitHub: Sign in to GitHub and create a new empty repository. You can choose to either initialize a README or not.
-2.	Initialize your project directory as a Git repository: Open your Terminal and type “git init.
-3.	Add files in your local repository: Type “git add . to add all files in your local repository.
-4.	Commit the files that you have added to your local repository: Type “git commit -m” “First commit”.
-5.	Add the remote repository URL as origin in your terminal: Type “git add origin .
-6.	Push your code to GitHub: Type “git push -u origin.
-</p>
+<p>1.	Create a new repository on GitHub: Sign in to GitHub and create a new empty repository. You can choose to either initialize a README or not.</p>
+<p>2.	Initialize your project directory as a Git repository: Open your Terminal and type “git init.</p>
+<p>3.	Add files in your local repository: Type “git add . to add all files in your local repository.</p>
+<p>4.	Commit the files that you have added to your local repository: Type “git commit -m” “First commit”.</p>
+<p>5.	Add the remote repository URL as origin in your terminal: Type “git add origin.</p>
+<p>6.	Push your code to GitHub: Type “git push -u origin.</p>
+
